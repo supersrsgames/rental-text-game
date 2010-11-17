@@ -1,0 +1,1 @@
+﻿package com.rrr.textgame{	import flash.display.MovieClip;	public class gu extends MovieClip{		public function gu(){					}	}}
