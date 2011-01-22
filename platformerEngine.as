@@ -1,1 +1,0 @@
-﻿package{		import flash.display.MovieClip;	public class platformerEngine extends MovieClip{		function platformerEngine(){			trace ("cock")		}	}}
